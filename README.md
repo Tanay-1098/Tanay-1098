@@ -5,13 +5,8 @@ graduate degree in Statistics.
 * Excellent with manipulating, transforming, and analysing complex data using data
 programming languages R, Python.
 * I am skilled in making data analysis reports with graphic visualisation.
-* [LinkedIn](http://www.linkedin.com/in/tanay-sawant)
+* Social Media:  [LinkedIn](http://www.linkedin.com/in/tanay-sawant)
+* 🔭 I’m currently working on Machine Learning Projects.
+* 🤔 I’m looking for help with full time opportunities in Data Science field.
+* 📫 How to reach me: Email: tusawant98@gmail.com
 
-<!--
-**Tanay-1098/Tanay-1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on Machine Learning Projects.
-- 🤔 I’m looking for help with full time opportunities in Data Science field.
-- 📫 How to reach me: Email: tusawant98@gmail.com
-
--->
