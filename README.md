@@ -7,7 +7,7 @@ Excellent with manipulating, transforming, and analysing complex data using data
 programming languages R, Python.
 I am skilled in making data analysis reports with graphic visualisation.
 Social Media:
-[LinkedIn](http://www.linkedin.com/in/tanay-sawant)
+![LinkedIn](http://www.linkedin.com/in/tanay-sawant)
 <!--
 **Tanay-1098/Tanay-1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
